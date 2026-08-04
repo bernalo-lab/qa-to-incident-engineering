@@ -1,4 +1,4 @@
-# Incident Engineering — GitHub Template Pack
+# Incident Engineering Template Pack
 
 10 templates covering the full lifecycle of operational work: before an incident (readiness, risk, change), during an incident (timeline, status updates, rollback), and after (postmortem, decision records), plus the connective tissue that keeps teams calibrated (runbooks, on-call handover).
 
@@ -16,6 +16,17 @@
 | 8 | [Runbook](./08-runbook.md) | Documenting how to diagnose/resolve a specific failure scenario |
 | 9 | [On-call Handover](./09-on-call-handover.md) | End of every on-call shift |
 | 10 | [Operational Decision Record](./10-operational-decision-record.md) | Recording the "why" behind a significant operational decision |
+
+## Who is this for?
+
+This repository is designed for:
+
+1. QA Engineers transitioning into Reliability Engineering
+2. Test Engineers moving towards SRE
+3. Incident Engineers
+4. Platform Engineers
+5. Engineering Managers building operational capability
+6. Teams introducing incident management practices
 
 ## How to Use These
 
@@ -40,3 +51,53 @@ Turn a repo containing all 10 into a GitHub Template Repository (Settings → Te
 - All templates use tables and checklists deliberately — they're built to be filled in under time pressure, not read as prose.
 - Cross-references between templates (e.g., Rollback → Incident Timeline) are intentional — link actual issues once you're using these live, so incidents form a connected trail rather than isolated documents.
 - Customize severity definitions (SEV-1/2/3/4), escalation paths, and team names to match your organization before rolling these out.
+
+## Continue your learning
+
+- **[Incident Engineering Hub](https://hub.bernalo.com/)**
+The complete platform for learning, practising and applying Incident Engineering through interactive simulations, engineering games, AI-assisted diagnosis and enterprise tools.
+
+- **[Bernalo](https://www.bernalo.com/)** - Helping engineering teams make better operational decisions.
+
+- **[Incident Ladder](https://incidentladder.com)** – Learn how production systems fail.
+
+- **[ExplainError Daily](https://www.explainerror.dev/)** - Wordle-style game for engineers that trains incident diagnosis and failure interpretation.
+
+- **[ExplainError](https://www.incidentatlas.io/)** -
+ExplainError is an API that interprets production failures and returns structured incident judgement — classification, severity and recommended action.
+It reduces the time engineers spend diagnosing incidents.
+
+- **[Operational Knowledge]** - Coming soon....
+
+- **[Production Failure Patterns](https://github.com/bernalo-lab/incident-pattern-free)** -
+Production failure patterns for SREs, DevOps, and platform engineers — real-world incident behaviours, misleading signals, root causes, and operational troubleshooting guidance for distributed systems.
+
+- **[AWS ClodWatch Search](https://github.com/bernalo-lab/aws-log-search-preview)** -
+Selected AWS CloudWatch Logs Insights patterns for incident triage under pressure
+
+- **[YouTube]** - In progress
+
+- **[LinkedIn]** -
+Author (https://www.linkedin.com/in/bosun-sogeke-a1413713b/)
+Company (https://www.linkedin.com/company/19836464/)
+
+- **[explainerror-pilot](https://explainerror-pilot.vercel.app/)** -
+Reduce incident misclassification before it slows down your response.
+ExplainError pilot landing page – structured error classification and confidence-driven incident triage for SRE and engineering teams.
+
+
+- **[Submit a Redacted Incident Example](https://incident-dataset.onrender.com)** -
+A curated dataset of real-world production errors used for calibrating incident classification systems.
+Share a production incident example to help grow the Open Production Incident Dataset.
+
+- **[Skool](https://www.skool.com/incident-engineering-academy-3597)**
+
+- **[Incident Engineeer (Reddit)](https://www.reddit.com/r/IncidentEngineering/)**
+
+## Mission
+
+Our goal is simple:
+
+Help QA Engineers become Reliability Engineers by providing practical tools, operational knowledge, and hands-on exercises that can be used immediately in production environments.
+
+Small improvements in operational judgement prevent big incidents.
