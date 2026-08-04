@@ -77,8 +77,8 @@ Selected AWS CloudWatch Logs Insights patterns for incident triage under pressur
 
 - **[YouTube]** - In progress
 
-- **[LinkedIn]** -
-Author (https://www.linkedin.com/in/bosun-sogeke-a1413713b/)
+- **[LinkedIn]** -</br>
+Author (https://www.linkedin.com/in/bosun-sogeke-a1413713b/)</br>
 Company (https://www.linkedin.com/company/19836464/)
 
 - **[explainerror-pilot](https://explainerror-pilot.vercel.app/)** -
