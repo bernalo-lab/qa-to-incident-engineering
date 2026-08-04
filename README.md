@@ -67,7 +67,7 @@ The complete platform for learning, practising and applying Incident Engineering
 ExplainError is an API that interprets production failures and returns structured incident judgement — classification, severity and recommended action.
 It reduces the time engineers spend diagnosing incidents.
 
-- **[Operational Knowledge]** - Coming soon....
+- <b>Operational Knowledge</b> - Coming soon....
 
 - **[Production Failure Patterns](https://github.com/bernalo-lab/incident-pattern-free)** -
 Production failure patterns for SREs, DevOps, and platform engineers — real-world incident behaviours, misleading signals, root causes, and operational troubleshooting guidance for distributed systems.
@@ -75,11 +75,11 @@ Production failure patterns for SREs, DevOps, and platform engineers — real-wo
 - **[AWS ClodWatch Search](https://github.com/bernalo-lab/aws-log-search-preview)** -
 Selected AWS CloudWatch Logs Insights patterns for incident triage under pressure
 
-- **[YouTube]** - In progress
+- <b>YouTube</b> - In progress
 
-- **[LinkedIn]** -</br>
-Author (https://www.linkedin.com/in/bosun-sogeke-a1413713b/)</br>
-Company (https://www.linkedin.com/company/19836464/)
+- <b>LinkedIn</b> -</br>
+**[Author](https://www.linkedin.com/in/bosun-sogeke-a1413713b/)**</br>
+**[Company (Bernalo)](https://www.linkedin.com/company/19836464/)**
 
 - **[explainerror-pilot](https://explainerror-pilot.vercel.app/)** -
 Reduce incident misclassification before it slows down your response.
